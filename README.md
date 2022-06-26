@@ -18,6 +18,6 @@
 
 - [Next Coffee](https://nextcoffee.vercel.app/)
 
-## My Coding challenge
+## My Coding Challenge
 
-https://www.codewars.com/users/cinecus/badges/large
+![Codewars](https://www.codewars.com/users/cinecus/badges/large)
