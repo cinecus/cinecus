@@ -26,4 +26,4 @@
 
 ![Codewars](https://www.codewars.com/users/cinecus/badges/large)
 
-![CSS Battle](https://cssbattle.dev/player/cinecus)
+[CSS Battle](https://cssbattle.dev/player/cinecus)
