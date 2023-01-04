@@ -8,6 +8,8 @@
 
 ## My Personal Project
 
+- [Cinecus Portfolio Website](https://cinecus.vercel.app/) : My Portfolio
+
 - [Simple Ecommerce Web App](https://ecommerce-frontend-cinecus.vercel.app/) : Simple Ecommerce Web App
 
 - [Food Grizzly Web App](https://food-grizzly-frontend-k4ox72tekq-as.a.run.app/) : Reserved Restaurant Web App
